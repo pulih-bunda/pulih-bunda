@@ -76,15 +76,6 @@ flutter run
 
 Pilih emulator Android atau HP Android dengan USB debugging aktif sebagai perangkat.
 
-## Cara Berkontribusi
-
-1. Jalankan `git pull` sebelum mulai bekerja dan sebelum push.
-2. Pastikan `git config user.name` dan `git config user.email` sesuai akun GitHub masing-masing, supaya commit tercatat atas nama sendiri.
-3. Tulis pesan commit yang singkat dan jelas, misalnya `Tambah halaman jurnal mood`.
-4. Satu commit sebaiknya berisi satu perubahan yang saling terkait.
-5. Jangan mengubah berkas anggota lain tanpa berkoordinasi. Kalau terjadi konflik, hubungi Project Manager.
-6. Kendala teknis dicatat di daftar kendala kelompok melalui Project Manager.
-
 ## Status
 
 Tahap awal: proyek Flutter sudah diinisiasi dan kelompok sedang menyiapkan lingkungan kerja serta rancangan antarmuka.
