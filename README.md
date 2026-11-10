@@ -1,7 +1,5 @@
 # Pulih Bunda
 
-> Pendampingan ibu pasca melahirkan dan suami sebagai pendamping.
-
 Aplikasi mobile Flutter yang membantu ibu baru dan suami pendamping mendapatkan informasi kesehatan yang terstruktur dan dapat dipercaya, mencatat kondisi emosional, serta memantau tumbuh kembang dan imunisasi bayi.
 
 Proyek kelompok mata kuliah **CIE516 — Perancangan Aplikasi Mobile** (Semester Ganjil 2026/2027). Dosen pengampu: Ary Prabowo, S.Komp., M.Kom.
